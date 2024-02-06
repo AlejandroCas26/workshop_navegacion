@@ -21,7 +21,7 @@ class TabBarDemo extends StatelessWidget {
                 Tab(icon: Icon(Icons.directions_bike)),
               ],
             ),
-            title: const Text('Tabs Demo'),
+            title: const Text('Probando los Tabs'),
           ),
           body: const TabBarView(
             children: [
